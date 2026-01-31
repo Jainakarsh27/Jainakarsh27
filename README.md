@@ -67,8 +67,8 @@ Operating Systems • Computer Networks • DBMS
 
 ## 🏆 Certifications  
 
-- AWS Certified Cloud Practitioner (CLF-02)  
-- Oracle OCI Generative AI Professional  
+- **AWS Certified Cloud Practitioner (CLF-02)**  
+- **Oracle OCI Generative AI Professional**
 - AI Fundamentals – Accenture  
 - Intro to Machine Learning – Kaggle  
 
@@ -85,15 +85,15 @@ Operating Systems • Computer Networks • DBMS
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jainakarsh27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Jainakarsh27&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainakarsh27&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
 </p>
 
 ---
