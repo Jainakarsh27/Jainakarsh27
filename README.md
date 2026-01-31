@@ -8,10 +8,11 @@
 <h3 align="center">Frontend Developer | AI & Generative AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Jainakarsh27">
+    <img src="https://komarev.com/ghpvc/?username=Jainakarsh27&label=Profile%20views&color=blueviolet&style=flat-square" />
   </a>
 </p>
+
 
 ---
 
@@ -30,12 +31,12 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <h4 style="margin: 0;">Programming</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,java" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <h4 style="margin: 0; ">Technologies & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,aws,dynamodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,aws,dynamodb" />
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -71,12 +72,35 @@
 
 - Strengthened understanding of full-stack architecture & API-driven systems
 
-### 🔹 MEDIBOT – AI-Enabled Teleconsultation System  
-- Designed accessible and responsive frontend UI
-- Focused on clean layouts and modular components
-- Improved patient interaction flow and usability 
+### 🔹 🧪 MEDIBOT – AI-Enabled Teleconsultation System  
 
-### 🔹 Akarsh – Frontend Automation Interface
+- Tech Stack: React.js, Tailwind CSS, AI/NLP, REST APIs
+
+- Designed an AI-enabled teleconsultation platform to improve healthcare accessibility
+
+- Built a responsive and accessible frontend UI with a focus on clean layouts
+
+- Implemented symptom-based health assessment workflows
+
+- Improved patient interaction flow and usability through modular components
+
+- Strengthened understanding of AI-assisted healthcare systems and frontend architecture
+ 
+### 🤖 Sahayak AI – Intelligent Assistance System
+
+- Tech Stack: Python, NLP, AI Models, REST APIs
+
+- Developed an AI-powered assistant to help users solve everyday and domain-specific problems
+
+- Implemented NLP-based conversational workflows for accurate and contextual responses
+
+- Designed logic for automated guidance and query resolution
+
+- Focused on user-friendly interactions and response accuracy
+
+- Enhanced understanding of AI-driven applications and conversational systems
+
+### 🔹 Akarsh – Aura Flow Frontend Automation Interface
 
 - Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind CSS
 
@@ -179,11 +203,11 @@
 ---
 
 <!-- Snake Animation -->
-<div align="center">
+<!-- <div align="center"> -->
 
-  ![snake gif](https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-snake.svg)
+ <!-- ![snake gif](https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-snake.svg)  -->
 
-</div>
+<!-- </div> -->
 
 
 
@@ -191,17 +215,20 @@
 ---
 
 ## 🌱 Currently Working On  
-- Advanced React & performance optimization  
-- AI-integrated web applications  
-- Improving problem-solving & DSA skills  
+- Advanced React patterns & performance optimization
+- AI-integrated web applications
+- Cloud-native application workflows
+- System design fundamentals
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 Email: **jainakarsh2805@gmail.com**  
-- 💼 LinkedIn: *https://www.linkedin.com/in/akarsh-jain-940220252/*  
-- 🌐 GitHub: **Jainakarsh27](https://github.com/Jainakarsh27** 😄*
+<p align="center">
+<a href="https://www.linkedin.com/in/akarsh-jain-940220252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jainakarsh2805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jainakarsh27"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
