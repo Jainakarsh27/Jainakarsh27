@@ -1,21 +1,25 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 🔥 THIS FIXES THE 403 ISSUE
+
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Jainakarsh27
           outputs: |
             dist/github-snake.svg
-      - name: Push Snake to output branch
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
