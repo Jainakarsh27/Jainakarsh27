@@ -85,15 +85,15 @@ Operating Systems • Computer Networks • DBMS
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jainakarsh27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Jainakarsh27&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainakarsh27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ Operating Systems • Computer Networks • DBMS
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ Operating Systems • Computer Networks • DBMS
 
 - 📧 Email: **jainakarsh2805@gmail.com**  
 - 💼 LinkedIn: *Add your LinkedIn link*  
-- 🌐 GitHub: *You’re already here 😄*
+- 🌐 GitHub: **Jainakarsh27** 😄*
 
 ---
 
