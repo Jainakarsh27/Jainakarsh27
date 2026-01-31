@@ -55,46 +55,94 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 Project Synapse – AI-Powered Last-Mile Delivery Platform  
-- Built role-based dashboards using **React.js & TailwindCSS**
-- Created reusable components with **React Hooks**
-- Integrated REST APIs for chatbot & AI-based address validation  
+### 🚚 Project Synapse – AI-Powered Last-Mile Delivery Platform
+
+- Tech Stack: React.js, Tailwind CSS, FastAPI, REST APIs, SQLModel, Leaflet.js
+
+- Built a role-based delivery platform with separate Customer & Rider dashboards
+
+- Developed a responsive and scalable UI using React.js & Tailwind CSS
+
+- Integrated REST APIs for order management, assignment, and real-time tracking
+
+- Implemented map-based live tracking using Leaflet.js
+
+- Added an AI-powered chatbot for automated customer issue resolution
+
+- Strengthened understanding of full-stack architecture & API-driven systems
 
 ### 🔹 MEDIBOT – AI-Enabled Teleconsultation System  
 - Designed accessible and responsive frontend UI
 - Focused on clean layouts and modular components
-- Improved patient interaction flow and usability  
+- Improved patient interaction flow and usability 
+
+### 🔹 Akarsh – Frontend Automation Interface
+
+- Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind CSS
+
+- Built an interactive workflow builder to visually design and manage task flows
+
+- Implemented modular, component-based architecture for reusability
+
+- Enabled dynamic state handling for creating, updating, and connecting workflow steps
+
+- Designed a clean, responsive UI with focus on UX and scalability
+
+- Improved understanding of frontend architecture, state management, and UI logic
+---
+
+##  
+
+### 🧑‍💻💼 Experience 💼 Software Development Intern
+### Femira (by Meraji)
+
+- Assisted in application development, debugging, and testing across frontend and backend components
+
+- Worked closely with the development team following SDLC practices and agile workflows
+
+- Contributed to basic automation tasks and feature-level improvements
+
+- Gained hands-on experience with Git, GitHub, code reviews, and collaborative development
+
+- Improved understanding of production-level code quality, scalability, and deployment readiness
 
 ---
 
-## 💼 Experience  
+### ☁️ Virtual Intern – Generative AI (Google Cloud)
+### SmartBridge & SmartInternz
 
-**Software Development Intern** – Femira (by Meraji)  
-📍 Jan 2026 – Present  
-- Assisted in development, debugging & testing  
-- Worked with collaborative SDLC workflows  
+- Learned core concepts of Generative AI, prompt engineering, and cloud-based AI services
 
-**Virtual Intern – Generative AI** (Google Cloud)  
-📍 Nov 2025 – Jan 2026  
-- Learned prompt engineering & AI workflows  
-- Built hands-on AI solutions using Google Cloud  
+- Applied GenAI concepts using Google Cloud tools through guided hands-on tasks
 
----
+- Explored real-world use cases of AI-driven cloud applications
 
-## 🏆 Certifications  
-
-- **AWS Certified Cloud Practitioner (CLF-02)**  
-- **Oracle OCI Generative AI Professional**
-- AI Fundamentals – Accenture  
-- Intro to Machine Learning – Kaggle  
+- Strengthened fundamentals of cloud platforms, AI workflows, and applied learning
 
 ---
+### 🏆 Achievements & Activities
 
-## 👥 Leadership & Activities  
+🥈 Runner-Up – Industry Conclave Project Expo, VIT Bhopal
 
-- **Vice President**, Edu4U Club – VIT Bhopal  
-- **Student Coordinator**, TCS Mass Recruitment  
-- Finalist in multiple Hackathons (EY, SIH, Amazon, Myntra, Adobe)
+🧠 Participant – Smart India Hackathon (SIH)
+
+🚀 Top 50 Teams – EY National Challenge
+
+⚡ Shortlisted Team – Amazon Hackathon
+
+🛍️ Participant – Myntra Hackathon
+
+🧩 Final Round Qualifier – Adobe Hackathon
+
+🔥 20th Position – GrabHack (Unstop)
+
+📊 National-Level Participant – Unstop Quiz Challenge
+
+🏎️ Participant – TVS Hackathon
+
+👥 Student Coordinator – TCS Campus Recruitment Process
+
+⭐ Vice President – Edu4U Club, VIT Bhopal
 
 ---
 
@@ -122,6 +170,7 @@
   ![snake gif](https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-snake.svg)
 
 </div>
+
 
 
 
