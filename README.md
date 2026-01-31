@@ -1,3 +1,9 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Akarsh%20Jain&fontSize=45&fontAlignY=32&animation=blinking&color=0:2193B0,50:6DD5ED,100:6EE7B7" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Akarsh Jain</h1>
 <h3 align="center">Frontend Developer | AI & Generative AI Enthusiast | Problem Solver</h3>
 
@@ -20,20 +26,30 @@
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-HTML5 • CSS3 • React.js • TailwindCSS  
+<h3 align="left">⚙️ Languages and Tools</h3>
 
-**Languages:**  
-Java • Python • JavaScript  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0;">Programming</h4>
+  <img src="https://skillicons.dev/icons?i=python,js,java" />
+</div>
 
-**Databases:**  
-MySQL  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0; ">Technologies & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,aws,dynamodb,html,css" />
+</div>
 
-**Tools & Platforms:**  
-Git • GitHub • VS Code • Google Cloud  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0;"> Developer Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+</div> 
 
-**Core CS Concepts:**  
-Operating Systems • Computer Networks • DBMS  
+<!-- Core CS Concepts -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0;"> Core CS Concepts</h4>
+  <img src="https://skillicons.dev/icons?i=linux,mysql,redis" />
+</div>
+
+ 
 
 ---
 
@@ -84,29 +100,30 @@ Operating Systems • Computer Networks • DBMS
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
-</p>
+  <!-- GitHub Stats -->
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jainakarsh27&theme=gruvbox" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jainakarsh27&theme=gruvbox" /> |
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jainakarsh27&show_icons=true&count_private=true&theme=aura&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 📊 GitHub Insights
 
 <p align="center">
-  <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/Jainakarsh27/Jainakarsh27/blob/output/github-snake.svg)
-</div>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jainakarsh27&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+
+  ![snake gif](https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-snake.svg)
+
+</div>
+
+
 
 ---
 
@@ -120,8 +137,8 @@ Operating Systems • Computer Networks • DBMS
 ## 📫 Connect With Me  
 
 - 📧 Email: **jainakarsh2805@gmail.com**  
-- 💼 LinkedIn: *Add your LinkedIn link*  
-- 🌐 GitHub: **Jainakarsh27** 😄*
+- 💼 LinkedIn: *https://www.linkedin.com/in/akarsh-jain-940220252/*  
+- 🌐 GitHub: **Jainakarsh27](https://github.com/Jainakarsh27** 😄*
 
 ---
 
