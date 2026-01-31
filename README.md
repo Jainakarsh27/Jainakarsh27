@@ -101,7 +101,11 @@ Operating Systems • Computer Networks • DBMS
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jainakarsh27/Jainakarsh27/output/github-contribution-grid-snake.svg" />
+  <!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Jainakarsh27/Jainakarsh27/blob/output/github-snake.svg)
+</div>
 </p>
 
 ---
