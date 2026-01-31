@@ -145,7 +145,21 @@
 ⭐ Vice President – Edu4U Club, VIT Bhopal
 
 ---
+### 🎓 Certifications
 
+- ☁️ AWS Cloud Practitioner – Amazon Web Services
+
+- 🤖 Oracle OCI Generative AI Professional – Oracle
+
+- 🏗️ Solutions Architecture Job Simulation – Forage
+
+- ☁️ Google Cloud Generative AI Virtual Internship – SmartBridge & SmartInternz
+
+- 📊 GenAI Powered Data Analytics – Forage
+
+- 🤖 Introduction to Generative AI – IBM SkillsBuild
+ 
+ ---
 ## 📊 GitHub Stats  
 
   <!-- GitHub Stats -->
