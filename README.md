@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Generative%20AI-6E00FF?style=for-the-badge&logo=openai&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/Generative%20AI-6E00FF?style=for-the-badge&logo=openai&logoColor=white" /> -->
 
 
 </p>
